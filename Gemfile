@@ -8,5 +8,3 @@ gem "hashie"
 group :develpment do
   gem "pry"
 end
-
-@gemfile_text =~ /gem ['"]hashie['"]/)
